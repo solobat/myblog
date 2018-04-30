@@ -17,6 +17,8 @@ tags:
 
 而 Steward 便是 Chrome 浏览器里的类 Alfred 启动器，在某些方面甚至是 Alfred Plus。
 
+<!-- more -->
+
 ## 概述
 
 在 Chrome 中，通过 Steward 简单地输入某些命令，就能完成扩展、书签、标签页管理等大部分浏览器操作。  
